@@ -1,1 +1,2 @@
 Merhaba
+remote masterdan gelen
