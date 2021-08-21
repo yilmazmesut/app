@@ -1,2 +1,4 @@
 Merhaba
-ikinci satir
+remote masterdan gelen
+remote masterdan ikinci satir
+
